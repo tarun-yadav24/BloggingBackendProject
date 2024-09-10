@@ -18,7 +18,7 @@ app.get('/posts/:id',(req,res)=>{
     }
     res.status(201).send(userId)
 })
-//adding
+
 app.post('/posts',(req,res)=>{
     const {title,author,content,publication_date} = req.body
     const userAdd = {Id:Id++,title,author,content,publication_date}
