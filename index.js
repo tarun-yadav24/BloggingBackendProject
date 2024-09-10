@@ -7,6 +7,7 @@ app.use(express.json())
 let userData = []
 let Id = 1
 
+
 app.get('/posts',(req,res)=>{
     res.status(201).send(userData)
 })
