@@ -13,7 +13,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\":\"Baarishein\",\r\n    \"author\":\"Pruthvi Somaraju\",\r\n    \"content\":\"This is blog of Song Baarishein\",\r\n    \"publication_date\":\"17-09-2069\"\r\n}",
+					"raw": "{\r\n  \"title\": \"Mastering JavaScript\",\r\n  \"author\": \"Eva Martinez\",\r\n  \"content\": \"A comprehensive guide to mastering JavaScript, including tips, tricks, and best practices for developers.\",\r\n  \"publication_date\": \"2024-10-15T11:00:00.000Z\"\r\n}\r\n\r\n",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -21,7 +21,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:3000/posts",
+					"raw": "http://127.0.0.1:4000/posts",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -29,7 +29,7 @@
 						"0",
 						"1"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"posts"
 					]
@@ -55,7 +55,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:3000/posts",
+					"raw": "http://127.0.0.1:4000/posts",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -63,7 +63,7 @@
 						"0",
 						"1"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"posts"
 					]
@@ -89,7 +89,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:3000/posts/4",
+					"raw": "http://127.0.0.1:4000/posts/4",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -97,7 +97,7 @@
 						"0",
 						"1"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"posts",
 						"4"
@@ -121,7 +121,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://127.0.0.1:3000/posts/3",
+					"raw": "http://127.0.0.1:4000/posts/3",
 					"protocol": "http",
 					"host": [
 						"127",
@@ -129,7 +129,7 @@
 						"0",
 						"1"
 					],
-					"port": "3000",
+					"port": "4000",
 					"path": [
 						"posts",
 						"3"
